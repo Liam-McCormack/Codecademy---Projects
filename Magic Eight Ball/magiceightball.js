@@ -12,7 +12,7 @@ if (randomNumber === 1) {
 } else if (randomNumber === 4) {
     magicBallAnswer = 'Maybe in the future';
 } else if (randomNumber === 5) {
-    magicBallAnswer = 'VSooner than expected';
+    magicBallAnswer = 'Sooner than expected';
 } else if (randomNumber === 6) {
     magicBallAnswer = 'Maybe';
 } else if (randomNumber === 7) {
